@@ -1,4 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Gupta
+
+## 🐍 Python Developer | 💻 Programmer | 🏏 Cricket Enthusiast
+
+Welcome to my GitHub profile!
+
+### 🚀 About Me
+
+- 🐍 Interested in Python Programming
+- 💻 Learning Software Development
+- 🌐 Interested in Web Development
+- 🏏 Cricket Enthusiast
+- 🚀 Love building projects
+
+### 🛠️ Skills
+
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
 <!--
 **harshgupta3210/harshgupta3210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
