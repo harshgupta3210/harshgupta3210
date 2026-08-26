@@ -2,7 +2,7 @@
 
 <!-- ===================== BANNER ===================== -->
 
-<img src="./image2.jpeg" width="100%" alt="Harsh Gupta Banner"/>
+<img src="./image1.png" width="100%" alt="Harsh Gupta Banner"/>
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harshgupta3210&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
