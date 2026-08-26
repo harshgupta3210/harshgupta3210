@@ -2,7 +2,7 @@
 
 <!-- ===================== BANNER ===================== -->
 
-<img src="./image2.png" width="100%" alt="Harsh Gupta Banner"/>
+<img src="./image2.jpegg" width="100%" alt="Harsh Gupta Banner"/>
 
 <br><br>
 
