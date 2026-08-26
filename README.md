@@ -39,7 +39,18 @@
 # `~/` whoami
 
 ```console
-$ whoami
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       📚 CURRENTLY LEARNING                  ║
+║                                              ║
+║       🐍 Advanced Python                     ║
+║       🌐 Web Development                     ║
+║       ⚛️ React                               ║
+║       🤖 Machine Learning                    ║
+║       🧠 Data Structures & Algorithms        ║
+║       🗄️ Database Management                 ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 Harsh Gupta
 
 $ cat about.txt
