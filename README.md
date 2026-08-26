@@ -31,6 +31,7 @@
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
+<img src="https://raw.githubusercontent.com/.../snake.svg">
 
 <br><br>
 
