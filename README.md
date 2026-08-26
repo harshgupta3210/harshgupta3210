@@ -1,47 +1,46 @@
 <div align="center">
 
-<br>
+# ⚡ HARSH GUPTA
 
-<img src="./image2.jpeg"
-     width="220"
-     height="220"
-     alt="Harsh Gupta"/>
+### `Python Developer` • `Programmer` • `Cricket Enthusiast`
 
-<br><br>
-
-# Call
-
-# <span style="color:#00ff88;">Harsh Gupta</span>
-
-<br>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshgupta3210@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/harshgupta3210">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:151515&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
 ---
 
-## ~/whoami
+<div align="center">
 
-```bash
+## 🖤 WHO AM I?
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Harsh+Gupta+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;I+Love+Building+Things+%F0%9F%92%BB;Cricket+%7C+Code+%7C+Creativity+%F0%9F%8F%8F" />
+
+</div>
+
+---
+
+## 🖥️ `whoami`
+
+```text
 $ whoami
 
 Harsh Gupta
+
+$ cat about.txt
+
+Hi, I'm Harsh Gupta.
+
+I enjoy programming, building projects and learning
+new technologies.
+
+Currently exploring:
+→ Python
+→ Programming
+→ Web Development
+→ Git & GitHub
+
+Outside coding:
+→ Cricket 🏏
+→ Learning new things
+→ Building creative projects
