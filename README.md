@@ -56,6 +56,3 @@ SQL             ███████████
 ║       🗄️ Database Management                 ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
-Harsh Gupta
-
-$ cat about.txt
