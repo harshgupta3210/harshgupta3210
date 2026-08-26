@@ -1,47 +1,45 @@
 <div align="center">
 
-<!-- ==================== HEADER BANNER ==================== -->
+<!-- ==================== HEADER ==================== -->
 
-<img src="assets/harsh-banner.png" width="100%" alt="Harsh Gupta - Developer Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=Harsh%20Gupta&fontSize=55&fontColor=39D353&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br><br>
+<br>
 
-<!-- ==================== ANIMATED TYPING ==================== -->
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Harsh+Gupta;Python+Developer;Programmer;Web+Development+Learner;Cricket+Enthusiast;Code+%7C+Learn+%7C+Build+%7C+Repeat" alt="Typing Animation">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;Machine+Learning+Enthusiast;Problem+Solver;DSA+Learner;Building+Ideas+With+Code" alt="Typing SVG"/>
 
 <br><br>
 
 <!-- ==================== SOCIAL BUTTONS ==================== -->
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/HARSH_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
-<img src="https://raw.githubusercontent.com/.../snake.svg">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=HARSH_GITHUB_USERNAME&style=for-the-badge&color=39D353&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## `~/` whoami
+# `~/` whoami
 
 ```console
+$ whoami
+Harsh Gupta
+
 $ cat about.txt
