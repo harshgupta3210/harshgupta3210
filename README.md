@@ -182,15 +182,6 @@ Hi, I'm **Harsh Gupta**. YOUR_ONE_LINE_BIO_HERE.
 
 <sub>
 
-| project | live | stack |
-|---|---|---|
-| **[PROJECT_ONE](https://github.com/YOUR_USERNAME/PROJECT_ONE)** | PROJECT_ONE_LIVE_URL | `TECH` `STACK` |
-| **[PROJECT_TWO](https://github.com/YOUR_USERNAME/PROJECT_TWO)** | PROJECT_TWO_LIVE_URL | `TECH` `STACK` |
-| **[PROJECT_THREE](https://github.com/YOUR_USERNAME/PROJECT_THREE)** | PROJECT_THREE_LIVE_URL | `TECH` `STACK` |
-| **[PROJECT_FOUR](https://github.com/YOUR_USERNAME/PROJECT_FOUR)** | PROJECT_FOUR_LIVE_URL | `TECH` `STACK` |
-
-</sub>
-
 </div>
 
 ---
