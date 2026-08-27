@@ -26,23 +26,6 @@
 
 </div>
 
----
-
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
-
-Hi, I'm **Harsh Gupta**. YOUR_ONE_LINE_BIO_HERE.
-- Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
-- Learning **SKILL_ONE + SKILL_TWO**
-- Fun fact: **YOUR_FUN_FACT**
-
-<br>
-
-<div align="center">
-
 ## `~/` toolbox
 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,jwt,,git,github,vscode,html,css&perline=11" alt="tech stack">
