@@ -45,7 +45,7 @@ Hi, I'm **Harsh Gupta**. YOUR_ONE_LINE_BIO_HERE.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,jwt,,git,github,vscode,html,css&perline=11" alt="tech stack">
 
 </div>
 
