@@ -35,8 +35,6 @@ $ cat about.txt
 ```
 
 Hi, I'm **Harsh Gupta**. YOUR_ONE_LINE_BIO_HERE.
-
-- Currently building **[PROJECT_ONE](https://github.com/YOUR_USERNAME/PROJECT_ONE)** and **[PROJECT_TWO](https://github.com/YOUR_USERNAME/PROJECT_TWO)**
 - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
 - Learning **SKILL_ONE + SKILL_TWO**
 - Fun fact: **YOUR_FUN_FACT**
@@ -54,8 +52,6 @@ Hi, I'm **Harsh Gupta**. YOUR_ONE_LINE_BIO_HERE.
 ---
 
 <div align="center">
-
-## `~/` skill radar
 
 <table>
 <tr>
