@@ -28,7 +28,7 @@
 
 `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,python,nextjs,nodejs,git,github,vscode,html,css&perline=11" alt="tech stack">
 
 </div>
 
